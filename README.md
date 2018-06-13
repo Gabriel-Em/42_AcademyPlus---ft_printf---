@@ -8,7 +8,7 @@ For more details regarding the project see 'ft_printf - Subject(EN).pdf'
 
 Using a terminal from within the ft_printf directory:
 - run the command `make` to create the library **libftprintf.a**
-- include the prototype of ft_printf as `int ft_printf(const char \*str, ...)` in your project and use the function as you would use the real printf
+- include the prototype of ft_printf as `int ft_printf(const char *str, ...)` in your project and use the function as you would use the real printf
 - compile your project using the library with a command similar to `gcc -o myBinary mySource.c libftprintf.a`
 
 ## Features
